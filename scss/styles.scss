@@ -721,6 +721,10 @@ footer {
         cursor: default;
         font-size: 1.2em;
         border-radius: 6px;
+
+        i.fa {
+            color: $base-color;
+        }
     }
 }
 
