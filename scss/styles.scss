@@ -175,7 +175,7 @@ header {
             color: $base-color-hover;
             text-decoration: none;
             background: #eee;
-            border-radius: 4px;
+            border-radius: 6px;
         }
 
         &:focus {
@@ -719,6 +719,7 @@ footer {
         list-style: none;
         cursor: default;
         font-size: 1.2em;
+        border-radius: 6px;
     }
 }
 
